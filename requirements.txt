@@ -1,2 +1,2 @@
-Flask==2.1.4
+Flask==2.0.0
 imapclient==2.1.0
